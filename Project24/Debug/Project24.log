@@ -1,0 +1,12 @@
+﻿  Admin.cpp
+  Source.cpp
+F:\data structure programming\Project24\Project24\ArrayList.cpp(42,29): warning C4018: '<': signed/unsigned mismatch
+F:\data structure programming\Project24\Project24\ArrayList.cpp(39): message : while compiling class template member function 'void ArrayList<User>::Expand(void)'
+F:\data structure programming\Project24\Project24\ArrayList.cpp(27): message : see reference to function template instantiation 'void ArrayList<User>::Expand(void)' being compiled
+F:\data structure programming\Project24\Project24\ArrayList.cpp(6): message : while compiling class template member function 'ArrayList<User>::ArrayList(void)'
+F:\data structure programming\Project24\Project24\Source.cpp(8): message : see reference to function template instantiation 'ArrayList<User>::ArrayList(void)' being compiled
+F:\data structure programming\Project24\Project24\Source.cpp(8): message : see reference to class template instantiation 'ArrayList<User>' being compiled
+  User.cpp
+  Generating Code...
+F:\data structure programming\Project24\Project24\User.cpp(285): warning C4715: 'User::login': not all control paths return a value
+  Project24.vcxproj -> F:\data structure programming\Project24\Debug\Project24.exe
